@@ -1,10 +1,8 @@
-Olá! Sou um desenvolvedor fullstack com foco em Python e .NET.
+Desenvolvedor Fullstack
 
-Gosto de criar soluções que conectam backend, dados e interfaces web usando Angular, SQL e Power BI.
+🎓 Cursando o segundo período de Análise e Desenvolvimento de Sistemas na FAETERJ-RIO
 
-Tenho experiência com Docker, Azure e práticas ágeis (Scrum).
-
-Atualmente, estou explorando mais o uso de Python para automação e análise de dados.
+Minha principal stack é .NET mas atualmente estou explorando o uso de Python para automação e análise de dados.
 
 Stack:
 

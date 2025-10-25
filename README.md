@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá! Sou um desenvolvedor fullstack com foco em Python e .NET.
 
-<!--
-**IsaqueSouto/IsaqueSouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gosto de criar soluções que conectam backend, dados e interfaces web usando Angular, SQL e Power BI.
 
-Here are some ideas to get you started:
+Tenho experiência com Docker, Azure e práticas ágeis (Scrum).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou explorando mais o uso de Python para automação e análise de dados.
+
+Stack:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="24" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="24" height="24"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="24" height="24"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="27" height="27"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="22"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="24" height="24"/>
+

@@ -14,3 +14,6 @@ Stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="22"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="24" height="24"/>
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueSouto&layout=compact&langs_count=8&card_width=320" />
+</a>

@@ -6,7 +6,7 @@
 
 ### 🚀 Stack & Tecnologias
 <p align="left" style="margin-top:-10px;">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,angular,html,css,js,git,azure,docker,linux" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,angular,ts,html,css,js,git,azure,docker,linux" height="45"/>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="45"/>
 </p>
 

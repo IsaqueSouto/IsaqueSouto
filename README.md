@@ -1,10 +1,10 @@
-## 👨‍💻 Desenvolvedor Fullstack
+## <img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/guests/hd/partygeeko.gif?raw=true" width="40"/> Desenvolvedor Fullstack
 🧠 Cursando o segundo período de **Análise e Desenvolvimento de Sistemas** na **FAETERJ-RIO**  
 💼 Atualmente focado em **.NET**, explorando também **Python** para automação e análise de dados.
 
 ---
 
-### 🚀 Stack & Tecnologias
+### <img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/guests/hd/nyanparrot.gif?raw=true" width="40"/> Stack & Tecnologias
 <p align="left" style="margin-top:-10px;">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,angular,ts,html,css,js,git,github,azure,docker,linux" height="45"/>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="45"/>

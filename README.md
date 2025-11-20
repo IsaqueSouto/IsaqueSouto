@@ -25,7 +25,6 @@
 
   <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=IsaqueSouto&show_icons=true&theme=radical"
         height="700" width="507"
       />
     </td>

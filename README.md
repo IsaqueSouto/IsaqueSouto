@@ -15,20 +15,18 @@
 <table>
   <tr>
     <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSouto&layout=compact&theme=radical"
-        height="385" width="385"
-      />
-    </td>
+      
+  <img height="353px" width="353px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSouto&layout=compact&theme=radical"/>
+      
+  </td>
 
   <td style="width: 40px;"></td>
 
   <td>
-      <img 
-         src="https://github-readme-stats.vercel.app/api?username=IsaqueSouto&show_icons=true&theme=radical"
-         height="700" width="507"
-      />
-    </td>
+      
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaqueSouto&show_icons=true&theme=radical&width=450)
+      
+  </td>
   </tr>
 </table>
 

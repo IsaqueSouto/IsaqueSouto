@@ -1,6 +1,6 @@
-## <img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/guests/hd/partygeeko.gif?raw=true" width="40"/> Desenvolvedor Fullstack
-🧠 Cursando o segundo período de **Análise e Desenvolvimento de Sistemas** na **FAETERJ-RIO**  
-💼 Atualmente focado em **.NET**, explorando também **Python** para automação e análise de dados.
+## <img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/guests/hd/partygeeko.gif?raw=true" width="40"/> Fullstack Developer
+🧠 Completing the second semester of the Systems Analysis and Development program at FAETERJ-RIO.  
+💼 Currently focused on .NET, also exploring Python for automation and data analysis.
 
 ---
 

@@ -24,7 +24,7 @@
 
   <td>
       
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaqueSouto&show_icons=true&theme=radical&width=451)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaqueSouto&show_icons=true&theme=radical&width=450)
       
   </td>
   </tr>

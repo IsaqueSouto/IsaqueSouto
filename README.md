@@ -12,20 +12,9 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      
-  <img height="350px" width="355px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSouto&layout=compact&theme=radical"/>
-      
-  </td>
 
-  <td style="width: 40px;"></td>
+  <img height="350px" width="355px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSouto&layout=compact&theme=radical"/>      ![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=IsaqueSouto&show_icons=true&theme=radical)
 
-  <td>
+  
       
-      
-  </td>
-  </tr>
-</table>
 

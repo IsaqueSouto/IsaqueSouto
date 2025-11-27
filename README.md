@@ -16,7 +16,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSouto&layout=compact&theme=radical"
 height="360" width="355"/>
-&nbsp;  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaqueSouto&show_icons=true&theme=radical&width=450)
+&nbsp;&nbsp;  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaqueSouto&show_icons=true&theme=radical&width=450)
 
 
 

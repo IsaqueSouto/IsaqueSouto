@@ -11,13 +11,6 @@
 
 ---
 
-<div style="display:flex; gap:20px;">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSouto&layout=compact&theme=radical"
-height="360" width="355"/>
-&nbsp;&nbsp;  <img width="469" height="195" alt="Captura de tela 2025-11-25 133908" src="https://github.com/user-attachments/assets/e7c01493-811e-4019-b78c-f09023b0056f" />
-
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaqueSouto&theme=default)
 
 </div>

@@ -1,4 +1,4 @@
-## <img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/guests/hd/partygeeko.gif?raw=true" width="40"/> Fullstack Developer
+## <img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/guests/hd/partygeeko.gif?raw=true" width="40"/> Data & Automation
 🧠 Completing the second semester of the Systems Analysis and Development program at FAETERJ-RIO.  
 💼 Currently exploring Python for automation and data analysis.
 
